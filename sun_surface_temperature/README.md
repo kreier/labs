@@ -17,4 +17,8 @@ Sun = Temp(S)
 print(str(int(S)) + " w/m^2 is the Solar Constant calculated from the given change in temperature.")
 print(str(int(Sun)) + "K is the temperature of the Sun.")
 ```
-Could be improved with some more input steps ...
+### Complete notebook in the Anaconda cloud
+
+[![Anaconda-Server Badge](https://anaconda.org/kreier/sun-surface-temperature/badges/version.svg)](https://anaconda.org/kreier/sun-surface-temperature)
+
+The notebook can be [found here](sun-surface-temperature.ipynb).
