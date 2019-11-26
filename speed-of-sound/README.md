@@ -24,6 +24,12 @@ In application of waves we'll have a sneak peek into standing waves (topic 4.5) 
 
 First I wanted to use the software Audacity. Feel free do download it and install it. But then I realized how many capabilities are in  html5 and that a lot of this was programmed for the browser! I tried several of the following experiments on my smartphone as well. Great visualization and insight. What's your favorite? Can you find other examples? And can you determine the speed of sound?
 
-$$c=\frac{\lambda}{T}$$
+$$c=\frac{\lambda}{T}=\lambda f$$
+
+<img src="https://render.githubusercontent.com/render/math?math=c=\frac{\lambda}{T}=\lambda f">
 
 Inline rendering does not work yet.
+
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
