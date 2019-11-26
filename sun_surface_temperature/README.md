@@ -2,6 +2,17 @@
 
 We try to investigate the temperature of the sun's surface by measuring the temperature change of a water filled and blacked test tube when exposed to the sun for a certain time.
 
+## Complete notebook in the Anaconda cloud
+
+[![Anaconda-Server Badge](https://anaconda.org/kreier/sun-surface-temperature/badges/version.svg)](https://anaconda.org/kreier/sun-surface-temperature)
+
+The local copy of the notebook can be [found here](sun-surface-temperature.ipynb).
+
+## History
+### Huy's work 2019/11/25
+
+He submitted his work as can be seen in [this notebook](sun-surface-temperature_Huy_2019-11-25.ipynb). The main code there is the following:
+
 ```py
 def Solar_Constant(deltaT, m = 30, r = 0.011, h = 0.1, t = 300):
   return(((m * 4.186 * deltaT)/t)/(2 * r * h))
@@ -17,8 +28,5 @@ Sun = Temp(S)
 print(str(int(S)) + " w/m^2 is the Solar Constant calculated from the given change in temperature.")
 print(str(int(Sun)) + "K is the temperature of the Sun.")
 ```
-### Complete notebook in the Anaconda cloud
 
-[![Anaconda-Server Badge](https://anaconda.org/kreier/sun-surface-temperature/badges/version.svg)](https://anaconda.org/kreier/sun-surface-temperature)
-
-The notebook can be [found here](sun-surface-temperature.ipynb).
+Some minor mistakes were fixed during the lesson.
