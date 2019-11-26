@@ -33,3 +33,11 @@ Inline rendering does not work yet.
 ```math
 SE = \frac{\sigma}{\sqrt{n}}
 ```
+
+### Data
+
+Link to Google sheets with data:
+
+https://docs.google.com/spreadsheets/d/1T4fjEepzqD-v7nOkkKuG-eitWaAAet5nHVw-n3kXJZw/edit?usp=sharing
+
+Export data as csv: (speed-of-sound_20191128.csv).
