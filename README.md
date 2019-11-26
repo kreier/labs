@@ -2,8 +2,6 @@
 
 Scientific investigations in school using technology.
 
-Let's start with physics
-
 ## Topic 1: Measurements and uncertainties
 ### 1.1 Measurements in physics
 ### 1.2 Uncertainties and errors
@@ -21,6 +19,10 @@ Let's start with physics
 
 ## Topic 4: Waves
 ### 4.1 Oscillations
+
+- 2019-10-25 [Period of a pendulum](frequency-pendulum) 35x5=175 data points
+- 2018-12-03 [Period of a pendulum](frequency-pendulum)
+
 ### 4.2 Travelling waves
 ### 4.3 Wave characteristics
 ### 4.4 Wave behaviour
@@ -38,7 +40,7 @@ Let's start with physics
 ### 6.1 Circular motion
 ### 6.2 Newton's law of gravitation
 
-### Topic 7: Atomar, nuclear and particle physics
+## Topic 7: Atomar, nuclear and particle physics
 ### 7.1 Discrete energy and radioactivity
 ### 7.2Nuclear reactions
 ### 7.3 The structure of matter
@@ -76,10 +78,30 @@ Let's start with physics
 ### D.4 Stellar processes
 ### D.5 Further cosmology
 
-Science MYP
+# Science MYP
+## Unit 1: Cells, DNA and Inheritance
+## Unit 2: Stoichiometry and the Periodic Table
+## Unit 3: Newton's laws - Force and Motion
 
-Sciencefair
+- 2019/11/29 [Build a trebuchet](https://sites.google.com/view/trebu)
 
+
+
+# Sciencefair
+
+- https://stemfair.org General information
+- https://sites.google.com/ais.edu.vn/sciencefair Sciencefair at AISVN
+
+
+## Sciencefair 2020
+
+- https://sites.google.com/ais.edu.vn/sciencefair2020
+
+## Sciencefair 2019
+
+- [aisvn/sciencefair2019]()
+
+## Sciencefair 2018
 Off you go!
 investigation
 
