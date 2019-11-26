@@ -26,7 +26,7 @@ Let's start with physics
 ### 4.4 Wave behaviour
 ### 4.5 Standing waves
 
-- 2019/11/26 [Speed of sound}(speed-of-sound)
+- 2019/11/26 [Speed of sound](speed-of-sound)
 
 ## Topic 5: Electricity and magnetism
 ### 5.1 Electric fields
