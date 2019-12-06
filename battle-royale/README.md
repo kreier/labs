@@ -1,8 +1,6 @@
 # Battle royale
 
-This code was sent to me by a student for further investigation. He said he couldn't make it run.
-
-I just copied it into my trial Matlab installation and it worked out of the box:
+This code was sent to me by a student for further investigation. I just copied it into my trial Matlab installation and it worked out of the box:
 
 ![](all_2019-12-06.png)
 
@@ -10,7 +8,7 @@ You can see in the graph how the characters do over time. With the set parameter
 
 ![](graph_2019-12-06.png)
 
-And that's the whole code:
+It uses ODE - the [Ordinary Differential Equation](https://www.mathworks.com/help/matlab/ordinary-differential-equations.html) solver from Matlab. And that's the whole code:
 
 ```
 function Battle_Royale
