@@ -4,8 +4,8 @@ This code was sent to me by a student for further investigation. He said he coul
 
 I just copied it into my trial Matlab installation and it worked out of the box:
 
-![](all_2019-12-06.jpg)
+![](all_2019-12-06.png)
 
 You can see in the graph how the characters do over time:
 
-![](graph_2019-12-06.jpg)
+![](graph_2019-12-06.png)
