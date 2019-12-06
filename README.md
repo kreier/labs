@@ -1,5 +1,7 @@
 # Science labs
 
+<img src="images/physics.jpg" align="right" width="25%">
+
 Scientific investigations in school using technology.
 
 ## Topic 1: Measurements and uncertainties
@@ -104,6 +106,14 @@ Scientific investigations in school using technology.
 ## Sciencefair 2018
 Off you go!
 investigation
+
+<img src="images/chemistry.jpg" width="100%">
+
+# Chemistry
+
+## Titration
+
+will follow. around equilibrium point some 15 minutes!
 
 ### 8.2 Energy transfer
 ### Surface temperature of the sun - 2019/11/25
