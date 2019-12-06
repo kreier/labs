@@ -87,7 +87,7 @@ Scientific investigations in school using technology.
 
 - 2019/11/29 [Build a trebuchet](https://sites.google.com/view/trebu)
 
-
+<img src="images/stemfair.png" width="50%" align="right">
 
 # Sciencefair
 
