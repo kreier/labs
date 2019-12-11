@@ -1,14 +1,14 @@
 # Bifurcations
 
-While trying Mathematica on the Raspberry Pi 4 I noticed the performance improvements. Since a calculation of a bifurcation was the screenshot for the wikipedia page I tried to replicate the output. I was looking for this:
+While trying Mathematica 12.0 on the Raspberry Pi 4 I noticed the performance improvements. Since a calculation of a bifurcation was the screenshot for the wikipedia page I tried to replicate the output. I was looking for this:
 
 ![Mathematica bifurcation](pic/Mathematica_logistic_bifurcation.png)
 
-But the 40 seconds didn't compute for my little ARM CPU. I tried Anaconda as well These are the results by language:
+Rendered in 40 seconds with Mathematica 8.0.0 in 2011. But the 40 seconds didn't compute for my little ARM CPU in Mathematica. Jupyter just took 4 seconds ... Here are the results by language:
 
 ## Mathematica
 
-I tried to copy this code, but the CPU run hot to 85 °C on all 4 cores. And several minutes later it produced error messages, but no graph. Like this 
+I tried to copy this code, but the CPU run hot to 85 °C on all 4 cores. And several minutes later it produced error messages, but no graph. Error messages like this 
 
 *(kernel 2)* __Set::write:__ `Tag Times in (logistic (Drop[#1,10000]&))[{0.6586014743446188, logistic[3.5228,0.6586014743446188], logistic[3.5228,logistic[3.5228,0.6586014743446188]], <<46>>, logistic[3.5228,logistic[3.5228,logistic[3.5228, logistic[3.5228,logistic[3.5228,logistic[<<2>>]]]]]],<<10050>>}] is Protected.`
 
@@ -31,7 +31,6 @@ Row@{"Data length: ", plotData // Length}
 ListPlot[plotData, PlotStyle -> {Pointsize[0], Opacity[0.1]}, 
  ImageSize -> 800, PlotRange -> {All, {0, 1}}; LabelStyle -> 16]
 ```
-
 
 ## Jupyter notebook
 
@@ -74,4 +73,10 @@ def bifurcation_diagram(seed, n_skip, n_iter, step=0.0001, r_min=0):
 
 bifurcation_diagram(0.2, 100, 10, r_min=3.55)
 ```
+4 seconds later I got the results:
+
+`Starting with x0 seed 0.2, skip plotting first 100 iterations, then plot next 10 iterations.`
+
 ![bifurcation](pic/bifurcation2.png)
+
+## Matlab
