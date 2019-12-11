@@ -2,19 +2,19 @@
 
 While trying Mathematica on the Raspberry Pi 4 I noticed the performance improvements. Since a calculation of a bifurcation was the screenshot for the wikipedia page I tried to replicate the output. I was looking for this:
 
-![Mathematica bifurcation](Mathematica_logistic_bifurcation.png)
+![Mathematica bifurcation](pic/Mathematica_logistic_bifurcation.png)
 
 But the 40 seconds didn't compute for my little ARM CPU. I tried Anaconda as well These are the results by language:
 
 ## Mathematica
 
-I tried to copy this code, but the CPU run hot to 85 °C on all 4 cores. And several minutes later it produced error messages, but no graph. Like (kernel 2) Set::write: `Tag Times in (logistic (Drop[#1,10000]&))[{0.6586014743446188,logistic[3.5228,0.
-6586014743446188],logistic[3.5228,logistic[3.5228,0.6586014743446188]], <<46>>,logistic[3.5228,logistic[3.5228,logistic[
-3.5228,logistic[3.5228,logistic[3.5228,logistic[<<2>>]]]]]],<<10050>>}] is Protected.`
+I tried to copy this code, but the CPU run hot to 85 °C on all 4 cores. And several minutes later it produced error messages, but no graph. Like this 
+
+*(kernel 2)* __Set::write:__ `Tag Times in (logistic (Drop[#1,10000]&))[{0.6586014743446188,logistic[3.5228,0.6586014743446188],logistic[3.5228,logistic[3.5228,0.6586014743446188]], <<46>>,logistic[3.5228,logistic[3.5228,logistic[3.5228,logistic[3.5228,logistic[3.5228,logistic[<<2>>]]]]]],<<10050>>}] is Protected.`
 
 That's the code. We went to `Initial k: 10000`
 
-```
+``` mathematica
 bifurcate[f_, a0_, k0_, k_, while_: (True &)] := 
   NestWhileList[f, a0, while, 2, k0 + k - 1] // 
     Drop[#, k0] & logistic = {r, y} -> ry (1 - y);
@@ -28,6 +28,8 @@ Row@{"Time taken: ",
           bifurcate[logistic[r, #] &, a0, k0, density]}^T, {r, 3.5, 
          4, 0.0001}] // Flatten[#, 1] &; ][[1]], " s"}
 Row@{"Data length: ", plotData // Length}
+ListPlot[plotData, PlotStyle -> {Pointsize[0], Opacity[0.1]}, 
+ ImageSize -> 800, PlotRange -> {All, {0, 1}}; LabelStyle -> 16]
 ```
 
 
