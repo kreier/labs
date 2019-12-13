@@ -87,7 +87,12 @@ Scientific investigations in school using technology.
 ## Unit 2: Stoichiometry and the Periodic Table
 ## Unit 3: Newton's laws - Force and Motion
 
-- 2019/11/29 [Build a trebuchet](https://sites.google.com/view/trebu)
+- 2019/11/29 [Build a trebuchet](https://sites.google.com/view/trebu) Students of grade 9 built their own catapult or trebuchet from cardboard to understand the concepts of a lever, velocity, acceleration, potential energy, kinetic energy, efficiency and momentum.
+
+## Unit 4: Energy
+## Unit 5: Carbon Chemistry and Chemical Reactions I
+## Unit 6: Matter and Energy in Ecosystems
+## Unit 7: Waves and Electromagnetic Radiation
 
 <img src="images/stemfair.png" width="50%" align="right">
 
@@ -109,13 +114,21 @@ Scientific investigations in school using technology.
 Off you go!
 investigation
 
+## Sciencefair 2017
+
+- 2107-04-04 [Sciencefair 2017 at AIS](https://sites.google.com/ais.edu.vn/sciencefair2017) This was the second Science Fair, but without the high school participating
+
 <img src="images/chemistry.jpg" width="100%">
 
 # Chemistry
 
-## Titration
+## Measurements and uncertainties
 
-will follow. around equilibrium point some 15 minutes!
+- 2018-10-10 Five classes of grade 10 measured a lot of data.
+
+## Equilibrium and neutralization
+
+- Titration from early 2019 will follow. around equilibrium point some 15 minutes!
 
 # Investigations, sometimes related to IAs and EEs
 
