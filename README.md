@@ -51,7 +51,7 @@ Scientific investigations in school using technology.
 #### 8.1 Energy sources
 #### 8.2 Thermal energy transfer
 
-- 2019/11/18 [Sun's surface temperature](sun-surface-temperature)
+- 2019/11/18 [Sun's surface temperature](sun-surface-temperature) With just a test tube and a thermometer.
 
 ## Topic 9: Wave phenomena
 ### 9.1 Simple harmonic motion
@@ -117,13 +117,20 @@ investigation
 
 will follow. around equilibrium point some 15 minutes!
 
-### 8.2 Energy transfer
-### Surface temperature of the sun - 2019/11/25
+# Investigations, sometimes related to IAs and EEs
 
-Setup is a test tube, 22 mm diameter, blackend and filled with 30 ml water (30 gram) to a height of 100 mm. Exposed to the sun for 5 minutes or 300 seconds we measure the temperature change of 5.9 degrees celsius. Using Stefan Boltzman's law we deduce the surface temperature of the sun to be 5485 Kelvin.
+## Math
 
-[Link to jupyter notebook](sun_surface_temperature)
+- 2019-06-08 [Battle Royale in Matlab](battle-royale) A simulation of several 'battle royale' contestants, calculated in Matlab using the ODE (Ordinary Differetial Equations) solver. The student later explored diffusion as the second derivative to model the behaviour.
+- 2019-12-12 [Bifurcation in Mathematica](bifurcation) Having played with the chaotic behaviour of these functions in the early 90s of the last century on my Atari ST it was great to see them simulated in Mathematica. So I tried this on the free Mathematica 12.0 on my new Raspberry Pi 4.
 
-more to follow ...
+## Physics
+
+- 2018-10-10 Resonance frequency and related impedance of loudspeakers
+- 2018-10-10 Force over travel for a keyboard, like the butterfly mechanism on MacBooks.
+
+## Chemistry
+
+- 2019-09-09 Concentration of vitamin C in oranges, apples and pears.
 
 <a href="https://www.freepik.com/free-photos-vectors/design">Design vector created by macrovector - www.freepik.com</a>
