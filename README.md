@@ -134,7 +134,7 @@ investigation
 
 ## Math
 
-- 2019-06-08 [Battle Royale in Matlab](battle-royale) A simulation of several 'battle royale' contestants, calculated in Matlab using the ODE (Ordinary Differetial Equations) solver. The student later explored diffusion as the second derivative to model the behaviour.
+- 2019-06-08 [Battle Royale in Matlab](battle-royale) A simulation of several 'battle royale' contestants, calculated in Matlab using the ODE (Ordinary Differetial Equations) solver. The student later explored diffusion as the second derivative to model the behaviour. <img src="bifurcation/pic/bifurcation2.png" align="right" width="20%">
 - 2019-12-12 [Bifurcation in Mathematica](bifurcation) Having played with the chaotic behaviour of these functions in the early 90s of the last century on my Atari ST it was great to see them simulated in Mathematica. So I tried this on the free Mathematica 12.0 on my new Raspberry Pi 4.
 
 ## Physics
@@ -145,5 +145,8 @@ investigation
 ## Chemistry
 
 - 2019-09-09 Concentration of vitamin C in oranges, apples and pears.
+
+[![MIT license](https://img.shields.io/github/license/kreier/labs?color=brightgreen)](http://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.io/kreier/labs.svg)](http://hits.dwyl.io/kreier/labs)
 
 <a href="https://www.freepik.com/free-photos-vectors/design">Design vector created by macrovector - www.freepik.com</a>
