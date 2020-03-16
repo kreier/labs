@@ -4,19 +4,19 @@
 
 We're going to use a straw, a ruler and our laptop or phone to measure the speed of sound. The notebook at Anaconda documents the steps, we have a local copy as well.
 
-https://musiclab.chromeexperiments.com/Spectrogram/
+[https://musiclab.chromeexperiments.com/Spectrogram/](https://musiclab.chromeexperiments.com/Spectrogram/)
 
-https://webaudiodemos.appspot.com/pitchdetect/
+[https://webaudiodemos.appspot.com/pitchdetect/](https://webaudiodemos.appspot.com/pitchdetect/)
 
-https://codepen.io/swys/pen/nxzpD
+[https://codepen.io/swys/pen/nxzpD](https://codepen.io/swys/pen/nxzpD)
 
-https://borismus.github.io/spectrogram/ (you might want to play https://www.youtube.com/watch?v=M9xMuPWAZW8&t=5m30s in parallel ;)
+[https://borismus.github.io/spectrogram/](https://borismus.github.io/spectrogram/) (you might want to play [this song on youtube](https://www.youtube.com/watch?v=M9xMuPWAZW8&t=5m30s) in parallel ;)
 
-http://wayou.github.io/HTML5_Audio_Visualizer/
+[http://wayou.github.io/HTML5_Audio_Visualizer/](http://wayou.github.io/HTML5_Audio_Visualizer/)
 
 And finally:
 
-https://www.audacityteam.org/ 
+[Audacity](https://www.audacityteam.org/) 
 
 More text from the email to students on November 22nd:
 
@@ -36,8 +36,6 @@ SE = \frac{\sigma}{\sqrt{n}}
 
 ### Data
 
-Link to Google sheets with data:
+Link to [Google sheets](https://docs.google.com/spreadsheets/d/1T4fjEepzqD-v7nOkkKuG-eitWaAAet5nHVw-n3kXJZw/edit?usp=sharing) with data. 
 
-https://docs.google.com/spreadsheets/d/1T4fjEepzqD-v7nOkkKuG-eitWaAAet5nHVw-n3kXJZw/edit?usp=sharing
-
-Export data as csv: (speed-of-sound_20191128.csv).
+Export data as csv: [speed-of-sound_20191128.csv](speed-of-sound_20191128.csv).
