@@ -2,6 +2,15 @@
 
 > 2020/05/05
 
+This is part of our Jupyter notebook:
+
+![Jupyter](pic/internal_resistance.jpg)
+![Jupyter python](pic/internal_resistance_python.jpg)
+
+And this is the setup:
+
+![Setup](pic/internal_resistance_setup.jpg)
+
 We took the AAA battery of a remote and measured the voltage without load and with a 1 kOhm resistor. Results:
 
 - epsilon = 1.499 V
