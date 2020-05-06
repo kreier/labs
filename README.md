@@ -36,6 +36,7 @@ Scientific investigations in school using technology.
 #### 5.1 Electric fields
 #### 5.2 Heating effects of electric currents
 #### 5.3 Electric cells
+- 2020-05-05 [Internal resistance of a battery](internal-resistance-battery)
 #### 5.4 Magnetic effects of electric currents
 
 ## Topic 6: Circular motion and gravitation
