@@ -7,4 +7,11 @@ Just some visualisations. First, the rendered output from the Jupyter notebook:
 
 And then the setup:
 
-![Setup](internal_resistance_setup.jpg)
+![Setup 1](resistance.jpeg)
+![Setup 2](voltage_open.jpeg)
+![Setup 3](voltage_load.jpeg)
+
+And finally the revised calculation:
+
+![Jupyter](internal_resistance2.jpg)
+![Jupyter python](internal_resistance_python2.jpg)
