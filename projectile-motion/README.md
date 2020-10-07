@@ -8,7 +8,7 @@ You can use the notebook as well.
 
 Edit parameters to adjust to your experiment. To leave air resistance out of the equation change density to a very low value.
 
-```
+``` python
 from math import pi, radians, degrees, sin, cos, atan, sqrt, sinh, cosh, asinh
 import numpy as np
 from scipy.integrate import quadrature
@@ -141,3 +141,7 @@ ax.set_xlabel('t (s)')
 ax.set_ylabel('v (m/s)')
 plt.show()
 ```
+
+![Result text](result_text.png)
+
+![Result graph](result_graph.png)
