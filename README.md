@@ -129,7 +129,8 @@ investigation
 
 ## Equilibrium and neutralization
 
-- Titration from early 2019 will follow. around equilibrium point some 15 minutes!
+- [Titration](titration) from early 2019 will follow. around equilibrium point some 15 minutes!
+- 2020-12-04 [Titration](titration) of unknown 1% - 3% CH3COOH solution with 0.5M NaOH solution and phenolphtalein as indicator
 
 # [Investigations, sometimes related to IAs and EEs](ee)
 
