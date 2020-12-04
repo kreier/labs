@@ -131,7 +131,7 @@ investigation
 
 - Titration from early 2019 will follow. around equilibrium point some 15 minutes!
 
-# Investigations, sometimes related to IAs and EEs
+# [Investigations, sometimes related to IAs and EEs](ee)
 
 ## Math
 
@@ -146,6 +146,14 @@ investigation
 ## Chemistry
 
 - 2019-09-09 Concentration of vitamin C in oranges, apples and pears.
+
+## ESS
+
+<img src="ee/EE_glass-fascade-data.png" width="25%" align="right">
+
+- 2020-12-04 To what extent does the implementation of glass buildings increase the release of CO2 into the environment?
+
+More to be found in the [EE](ee) subfolder.
 
 [![MIT license](https://img.shields.io/github/license/kreier/labs?color=brightgreen)](http://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.io/kreier/labs.svg)](http://hits.dwyl.io/kreier/labs)
