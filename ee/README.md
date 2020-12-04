@@ -23,3 +23,11 @@ The Jupyter notebook [Katy_EE.ipynb](Katy_EE.ipynb) contains the findings from N
 Here we need a molybdate complex and a spectrometer to measure the absorbance.
 
 The results:
+
+## Effect of glass fascade on building temperature and energy costs
+
+It's a great idea from Derrick to investigate the challenges of glass fascades in sunny countries like Vietnam. How much energy is needed for A/C on a building like [Landmark 81](https://en.wikipedia.org/wiki/Landmark_81)? Can you save 723 tons of CO2 per day with different materials? He conducted his own experiment and got some interesting results:
+
+![temperature change](EE_glass-fascade-data.png)
+
+The data is consistent!
