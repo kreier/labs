@@ -1,8 +1,57 @@
-# Science labs
 
-<img src="images/physics.jpg" align="right" width="25%">
 
 Scientific investigations in school using technology.
+
+# [Investigations, sometimes related to IAs and EEs](ee)
+
+## Math
+
+- 2019-06-08 [Battle Royale in Matlab](battle-royale) A simulation of several 'battle royale' contestants, calculated in Matlab using the ODE (Ordinary Differetial Equations) solver. The student later explored diffusion as the second derivative to model the behaviour. <img src="bifurcation/pic/bifurcation2.png" align="right" width="20%">
+- 2019-12-12 [Bifurcation in Mathematica](bifurcation) Having played with the chaotic behaviour of these functions in the early 90s of the last century on my Atari ST it was great to see them simulated in Mathematica. So I tried this on the free Mathematica 12.0 on my new Raspberry Pi 4.
+
+## Physics
+
+- 2018-10-10 Resonance frequency and related impedance of loudspeakers
+- 2018-10-10 Force over travel for a keyboard, like the butterfly mechanism on MacBooks.
+
+## Chemistry
+
+- 2019-09-09 Concentration of vitamin C in oranges, apples and pears.
+
+## ESS
+
+<img src="ee/EE_glass-fascade-data.png" width="25%" align="right">
+
+- 2020-12-04 To what extent does the implementation of glass buildings increase the release of CO2 into the environment?
+
+More to be found in the [EE](ee) subfolder.
+
+
+
+
+
+![Chemistry](images/chemistry.jpg)
+
+# Chemistry
+
+## Measurements and uncertainties
+
+- 2018-10-10 Five classes of grade 10 measured a lot of data.
+
+## Equilibrium and neutralization
+
+<img src="titration/titration2020.png" width="25%" align="right">
+
+- [Titration](titration) from early 2019 will follow. around equilibrium point some 15 minutes!
+- 2020-12-04 [Titration](titration) of unknown 1% - 3% CH3COOH solution with 0.5M NaOH solution and phenolphtalein as indicator
+
+
+
+
+
+# IB Physics
+
+<img src="images/physics.jpg" align="right" width="25%">
 
 ## Topic 1: Measurements and uncertainties
 #### 1.1 Measurements in physics
@@ -36,7 +85,9 @@ Scientific investigations in school using technology.
 #### 5.1 Electric fields
 #### 5.2 Heating effects of electric currents
 #### 5.3 Electric cells
+
 - 2020-05-05 [Internal resistance of a battery](internal-resistance-battery)
+
 #### 5.4 Magnetic effects of electric currents
 
 ## Topic 6: Circular motion and gravitation
@@ -118,43 +169,6 @@ investigation
 ## Sciencefair 2017
 
 - 2107-04-04 [Sciencefair 2017 at AIS](https://sites.google.com/ais.edu.vn/sciencefair2017) This was the second Science Fair, but without the high school participating
-
-<img src="images/chemistry.jpg" width="100%">
-
-# Chemistry
-
-## Measurements and uncertainties
-
-- 2018-10-10 Five classes of grade 10 measured a lot of data.
-
-## Equilibrium and neutralization
-
-- [Titration](titration) from early 2019 will follow. around equilibrium point some 15 minutes!
-- 2020-12-04 [Titration](titration) of unknown 1% - 3% CH3COOH solution with 0.5M NaOH solution and phenolphtalein as indicator
-
-# [Investigations, sometimes related to IAs and EEs](ee)
-
-## Math
-
-- 2019-06-08 [Battle Royale in Matlab](battle-royale) A simulation of several 'battle royale' contestants, calculated in Matlab using the ODE (Ordinary Differetial Equations) solver. The student later explored diffusion as the second derivative to model the behaviour. <img src="bifurcation/pic/bifurcation2.png" align="right" width="20%">
-- 2019-12-12 [Bifurcation in Mathematica](bifurcation) Having played with the chaotic behaviour of these functions in the early 90s of the last century on my Atari ST it was great to see them simulated in Mathematica. So I tried this on the free Mathematica 12.0 on my new Raspberry Pi 4.
-
-## Physics
-
-- 2018-10-10 Resonance frequency and related impedance of loudspeakers
-- 2018-10-10 Force over travel for a keyboard, like the butterfly mechanism on MacBooks.
-
-## Chemistry
-
-- 2019-09-09 Concentration of vitamin C in oranges, apples and pears.
-
-## ESS
-
-<img src="ee/EE_glass-fascade-data.png" width="25%" align="right">
-
-- 2020-12-04 To what extent does the implementation of glass buildings increase the release of CO2 into the environment?
-
-More to be found in the [EE](ee) subfolder.
 
 [![MIT license](https://img.shields.io/github/license/kreier/labs?color=brightgreen)](http://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.io/kreier/labs.svg)](http://hits.dwyl.io/kreier/labs)
